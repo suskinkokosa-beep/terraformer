@@ -1,0 +1,8 @@
+{
+  "name": "Terraformer Studio",
+  "description": "An integrated AI-powered IDE for professional game development, featuring the 'Architect' assistant, hybrid rendering pipelines, and automated server orchestration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
